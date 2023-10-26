@@ -1,0 +1,13 @@
+.icon {
+    transform: translate(-60%, -163%);
+    float: right;
+}
+
+.icon2{
+    width: 18px;
+}
+
+.carD{
+    background-image: linear-gradient(45deg, pink,purple, pink);
+    font-weight: bold;
+}
